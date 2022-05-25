@@ -8,4 +8,14 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="blue">#3a75c4</color>
+    <color name="blue_svetl">#A0EAE1</color>
+    <color name="textViewFontColor">#00695C</color>
+    <color name="seriy">#616161</color>
+    <color name="yellow_light1">#ffc947</color>
+    <color name="yellow_light2">#ff9800</color>
+    <color name="roz">#ff9e80</color>
+    <color name="korich">#5d4037</color>
+
+
+
 </resources>
